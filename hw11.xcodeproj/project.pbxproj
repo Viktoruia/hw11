@@ -10,23 +10,10 @@
 		FD581C4B2E48C11C00EFA7B0 /* hw10.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw10.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		FD581C5D2E48C11C00EFA7B0 /* Exceptions for "hw10" folder in "hw10" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = FD581C4A2E48C11C00EFA7B0 /* hw10 */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FD581C4D2E48C11C00EFA7B0 /* hw10 */ = {
+		FD581C4D2E48C11C00EFA7B0 /* hw11 */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				FD581C5D2E48C11C00EFA7B0 /* Exceptions for "hw10" folder in "hw10" target */,
-			);
-			path = hw10;
+			path = hw11;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -45,7 +32,7 @@
 		FD581C422E48C11C00EFA7B0 = {
 			isa = PBXGroup;
 			children = (
-				FD581C4D2E48C11C00EFA7B0 /* hw10 */,
+				FD581C4D2E48C11C00EFA7B0 /* hw11 */,
 				FD581C4C2E48C11C00EFA7B0 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FD581C4D2E48C11C00EFA7B0 /* hw10 */,
+				FD581C4D2E48C11C00EFA7B0 /* hw11 */,
 			);
 			name = hw10;
 			packageProductDependencies = (
@@ -98,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = FD581C462E48C11C00EFA7B0 /* Build configuration list for PBXProject "hw10" */;
+			buildConfigurationList = FD581C462E48C11C00EFA7B0 /* Build configuration list for PBXProject "hw11" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -314,7 +301,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FD581C462E48C11C00EFA7B0 /* Build configuration list for PBXProject "hw10" */ = {
+		FD581C462E48C11C00EFA7B0 /* Build configuration list for PBXProject "hw11" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				FD581C612E48C11C00EFA7B0 /* Debug */,
